@@ -1,0 +1,9 @@
+# ไม่ต้องอัปโหลดไฟล์เหล่านี้ขึ้น GitHub
+.venv/
+.venv-*/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+__MACOSX/
+.qodo/
